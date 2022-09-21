@@ -1,0 +1,38 @@
+.bloco{
+    color: linear-gradient(rgb(187, 206, 233), rgb(162, 162, 175), rgb(252, 252, 254));
+    width: 300px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    align-items: center;
+}
+
+p{
+    margin-top: -18px;
+}
+
+
+#bloco-1{
+    background-color:#f4f408;
+    border: solid rgb(30, 30, 189) 3px;
+    text-align: center;
+    
+}
+
+#bloco-2{
+    background-color:#33f408;
+    border: solid rgb(4, 248, 139) 3px;
+    text-align: center;
+}
+
+#bloco-3{
+    background-color:#041301;
+    border: solid rgb(179, 4, 248) 3px;
+    text-align: center;
+}
+
+#bloco-4{
+    background-color:#08c5f4;
+    border: solid rgb(110, 248, 4) 3px;
+    text-align: center;
+
+}
